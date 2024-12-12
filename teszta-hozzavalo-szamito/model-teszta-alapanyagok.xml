@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Pasta>
+    <Raw_material name="egg" unit="db" piece="4" width="4" height="3">
+        <Value_egg price="120" unit="db" piece="1"/>
+    </Raw_material>
+    <Raw_material name="flour" unit="dkg" piece="35" width="5" height="4">
+        <Value_flour price="220" unit="kg" piece="1"/>
+    </Raw_material>
+    <Raw_material name="sugar" unit="dkg" piece="25" width="6" height="5">
+        <Value_sugar price="380" unit="kg" piece="1"/>
+    </Raw_material>
+</Pasta>
